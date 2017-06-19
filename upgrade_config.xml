@@ -1,7 +1,7 @@
 {
 	"version": {
 		"version": "0.0.9",
-		"updateState": "0",
+		"updateState": "1",
 		"updateTip": "你有新版本，请升级\\n\\r测试换行",
 		"updateAddress": "https://raw.githubusercontent.com/317363658/file/master/test.apk",
 		"updateDetails": "支持收文、发文、签报、通用表格、请休假、出差、补考勤7大流程审批处理"
