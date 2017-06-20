@@ -1,9 +1,33 @@
 {
-	"version": {
-		"version": "0.0.9",
-		"updateState": "0",
-		"updateTip": "你有新版本，请升级<br>测试换行<br>测试换行1<br>测试换行2",
-		"updateAddress": "https://raw.githubusercontent.com/317363658/file/master/test.apk",
-		"updateDetails": "支持收文、发文、签报、通用表格、请休假、出差、补考勤7大流程审批处理"
-	}
+    "version": {
+        "version": "0.0.9",
+        "updateState": "0",
+        "updateTip": "你有新版本，请升级<br>测试换行<br>测试换行1<br>测试换行2",
+        "updateAddress": "https://raw.githubusercontent.com/317363658/file/master/test.apk",
+        "updateDetails": "支持收文、发文、签报、通用表格、请休假、出差、补考勤7大流程审批处理"
+            },
+            
+    "AppInfo": [
+        {
+            "appId": 1,
+            "appVersion": 1,
+            "appFullPath": "",
+            "appIncrementalPath": "",
+            "homePage": "/module/market/index.html"
+        },
+        {
+            "appId": 2,
+            "appVersion": 1,
+            "appFullPath": "",
+            "appIncrementalPath": "",
+            "homePage": "/module/market/index.html"
+        },
+        {
+            "appId": 3,
+            "appVersion": 1,
+            "appFullPath": "",
+            "appIncrementalPath": "",
+            "homePage": "/module/market/index.html"
+        }
+    ]
 }
