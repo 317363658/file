@@ -9,30 +9,31 @@
             
     "appInfos": [
         {
-            "appId": 1,
-            "appVersion": 1,
-            "zip":"model1",
+            "id": 1,
+            "name":"model1",
+            "version": 1,
             "md5":"111",
-            "appFullPath": "",
-            "appIncrementalPath": "",
+            "fullPath": "",
+            "incrementalPath": "",
             "homePage": "/module1/index.html"
         },
         {
-            "appId": 2,
-            "appVersion": 1,
-            "zip":"model2",
-            "md5":"222",
-            "appFullPath": "",
-            "appIncrementalPath": "",
+            "id": 2,
+            "name":"model2",
+            "version": 1,
+            "md5":
+            "111",
+            "fullPath": "",
+            "incrementalPath": "",
             "homePage": "/module2/index.html"
         },
-        {
-            "appId": 3,
-            "appVersion": 1,
-            "zip":"model3",
-            "md5":"333",
-            "appFullPath": "",
-            "appIncrementalPath": "",
+         {
+            "id": 3,
+            "name":"model3",
+            "version": 1,
+            "md5":"111",
+            "fullPath": "",
+            "incrementalPath": "",
             "homePage": "/module3/index.html"
         }
     ]
