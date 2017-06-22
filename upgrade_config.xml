@@ -11,23 +11,29 @@
         {
             "appId": 1,
             "appVersion": 1,
+            "zip":"model1",
+            "md5":"111",
             "appFullPath": "",
             "appIncrementalPath": "",
-            "homePage": "/module/market/index.html"
+            "homePage": "/module1/index.html"
         },
         {
             "appId": 2,
             "appVersion": 1,
+            "zip":"model2",
+            "md5":"222",
             "appFullPath": "",
             "appIncrementalPath": "",
-            "homePage": "/module/market/index.html"
+            "homePage": "/module2/index.html"
         },
         {
             "appId": 3,
             "appVersion": 1,
+            "zip":"model3",
+            "md5":"333",
             "appFullPath": "",
             "appIncrementalPath": "",
-            "homePage": "/module/market/index.html"
+            "homePage": "/module3/index.html"
         }
     ]
 }
