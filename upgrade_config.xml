@@ -12,18 +12,20 @@
             "id": 1,
             "name":"model1",
             "version": 2,
-            "md5":"111",
-            "fullPath": "",
-            "incrementalPath": "",
+            "md5":"2e34bc89b0e78e07505c6ab6fafcb54f",
+            "md5_in":"02b49dabae3ed0ca8a4c5e3adea81b79",
+            "fullPath": "https://raw.githubusercontent.com/317363658/file/master/model1",
+            "incrementalPath": "https://raw.githubusercontent.com/317363658/file/master/model1_zl",
             "homePage": "/module1/index.html"
         },
         {
             "id": 2,
             "name":"model2",
             "version": 3,
-            "md5":
+            "md5":"ca6c44908ffaa6344d7fb34cb08ade71",
+            "md5_in":"",
             "111",
-            "fullPath": "",
+            "fullPath": "https://raw.githubusercontent.com/317363658/file/master/model2",
             "incrementalPath": "",
             "homePage": "/module2/index.html"
         },
@@ -31,17 +33,19 @@
             "id": 3,
             "name":"model3",
             "version": 1,
-            "md5":"111",
-            "fullPath": "",
+            "md5":"3f442201b70a94abccd1cb943bd9c9d1",
+            "md5_in":"",
+            "fullPath": "https://raw.githubusercontent.com/317363658/file/master/model3",
             "incrementalPath": "",
             "homePage": "/module3/index.html"
         },
-             {
+         {
             "id": 4,
             "name":"model4",
             "version": 1,
-            "md5":"111",
-            "fullPath": "",
+            "md5":"f324f41c632e3dfe2ecd2e46546c049e",
+            "md5_in":"",
+            "fullPath": "https://raw.githubusercontent.com/317363658/file/master/model4",
             "incrementalPath": "",
             "homePage": "/module3/index.html"
         }
