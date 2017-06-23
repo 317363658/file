@@ -11,7 +11,7 @@
         {
             "id": 1,
             "name":"model1",
-            "version": 1,
+            "version": 2,
             "md5":"111",
             "fullPath": "",
             "incrementalPath": "",
@@ -20,7 +20,7 @@
         {
             "id": 2,
             "name":"model2",
-            "version": 1,
+            "version": 3,
             "md5":
             "111",
             "fullPath": "",
@@ -30,6 +30,15 @@
          {
             "id": 3,
             "name":"model3",
+            "version": 1,
+            "md5":"111",
+            "fullPath": "",
+            "incrementalPath": "",
+            "homePage": "/module3/index.html"
+        },
+             {
+            "id": 4,
+            "name":"model4",
             "version": 1,
             "md5":"111",
             "fullPath": "",
