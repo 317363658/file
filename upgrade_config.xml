@@ -4,7 +4,11 @@
         "updateState": "0",
         "updateTip": "你有新版本，请升级<br>测试换行<br>测试换行1<br>测试换行2",
         "updateAddress": "https://raw.githubusercontent.com/317363658/file/master/test.apk",
-        "updateDetails": "model1测试增量更新<br>model2测试全量更新<br>model3测试版本相同md5相同<br>modle4测试本地没有，新发布的轻应用<br>modle4测试本地没有，md5不一致"
+        "updateDetails": "model1测试增量更新
+        <br>model2测试全量更新
+            <br>model3测试版本相同md5相同
+                <br>modle4测试本地没有，新发布的轻应用
+                    <br>modle4测试本地没有，md5不一致<br>模块6测试强制升级"
             },
             
     "appInfos": [
@@ -12,6 +16,7 @@
             "id": 1,
             "name":"model1",
             "version": 2,
+            "force":false,
             "md5":"2e34bc89b0e78e07505c6ab6fafcb54f",
             "md5_in":"02b49dabae3ed0ca8a4c5e3adea81b79",
             "fullPath": "https://raw.githubusercontent.com/317363658/file/master/model1.zip",
@@ -22,6 +27,7 @@
             "id": 2,
             "name":"model2",
             "version": 3,
+            "force":false,
             "md5":"ca6c44908ffaa6344d7fb34cb08ade71",
             "md5_in":"",
             "fullPath": "https://raw.githubusercontent.com/317363658/file/master/model2.zip",
@@ -32,6 +38,7 @@
             "id": 3,
             "name":"model3",
             "version": 1,
+            "force":false,
             "md5":"3f442201b70a94abccd1cb943bd9c9d1",
             "md5_in":"",
             "fullPath": "https://raw.githubusercontent.com/317363658/file/master/model3.zip",
@@ -42,6 +49,7 @@
             "id": 4,
             "name":"model4",
             "version": 1,
+            "force":false,
             "md5":"f324f41c632e3dfe2ecd2e46546c049e",
             "md5_in":"",
             "fullPath": "https://raw.githubusercontent.com/317363658/file/master/model4.zip",
@@ -52,9 +60,21 @@
             "id": 5,
             "name":"model5",
             "version": 1,
+            "force":false,
             "md5":"f324f41c632e3dfe2ecd2e46546c049e",
             "md5_in":"",
             "fullPath": "https://raw.githubusercontent.com/317363658/file/master/model5.zip",
+            "incrementalPath": "",
+            "homePage": "index.html"
+        },
+         {
+            "id": 6,
+            "name":"model6",
+            "version": 1,
+            "force":true,
+            "md5":"a22a9fa601afe6526e5ac41e4f9b95d2",
+            "md5_in":"",
+            "fullPath": "https://raw.githubusercontent.com/317363658/file/master/model6.zip",
             "incrementalPath": "",
             "homePage": "index.html"
         }
