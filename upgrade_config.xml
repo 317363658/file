@@ -4,7 +4,7 @@
         "updateState": "0",
         "updateTip": "你有新版本，请升级<br>测试换行<br>测试换行1<br>测试换行2",
         "updateAddress": "https://raw.githubusercontent.com/317363658/file/master/test.apk",
-        "updateDetails": "model1测试增量更新<br>model2测试全量更新<br>model3测试版本相同md5相同<br>modle4测试本地没有，新发布的轻应用"
+        "updateDetails": "model1测试增量更新<br>model2测试全量更新<br>model3测试版本相同md5相同<br>modle4测试本地没有，新发布的轻应用<br>modle4测试本地没有，md5不一致"
             },
             
     "appInfos": [
@@ -45,6 +45,16 @@
             "md5":"f324f41c632e3dfe2ecd2e46546c049e",
             "md5_in":"",
             "fullPath": "https://raw.githubusercontent.com/317363658/file/master/model4.zip",
+            "incrementalPath": "",
+            "homePage": "index.html"
+        },
+         {
+            "id": 5,
+            "name":"model5",
+            "version": 1,
+            "md5":"f324f41c632e3dfe2ecd2e46546c049e",
+            "md5_in":"",
+            "fullPath": "https://raw.githubusercontent.com/317363658/file/master/model5.zip",
             "incrementalPath": "",
             "homePage": "index.html"
         }
