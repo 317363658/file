@@ -17,7 +17,7 @@
             "name":"model1",
             "version": 2,
             "force":false,
-            "isHome" : true,
+            "isHome" : 1,
             "parentId" : 0,
             "title" : "公告",
             "md5":"8807291f6e50a455f822e78da2f9ef69",
