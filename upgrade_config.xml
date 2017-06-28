@@ -24,7 +24,7 @@
             "md5_in":"02b49dabae3ed0ca8a4c5e3adea81b79",
             "fullPath": "https://raw.githubusercontent.com/317363658/file/master/model1.zip",
             "incrementalPath": "https://raw.githubusercontent.com/317363658/file/master/model1_zl.zip",
-            "homePage": "index.html"
+            "homePage": "/index.html"
         },
         {
             "id": 22,
@@ -37,7 +37,7 @@
             "md5_in":"",
             "fullPath": "https://raw.githubusercontent.com/317363658/file/master/model2.zip",
             "incrementalPath": "",
-            "homePage": "index.html"
+            "homePage": "/index.html"
         },
          {
             "id": 23,
@@ -50,7 +50,7 @@
             "md5_in":"",
             "fullPath": "https://raw.githubusercontent.com/317363658/file/master/model3.zip",
             "incrementalPath": "",
-            "homePage": "index.html"
+            "homePage": "/index.html"
         },
          {
             "id": 24,
@@ -63,7 +63,7 @@
             "md5_in":"",
             "fullPath": "https://raw.githubusercontent.com/317363658/file/master/model4.zip",
             "incrementalPath": "",
-            "homePage": "index.html"
+            "homePage": "/index.html"
         },
          {
             "id": 25,
@@ -76,7 +76,7 @@
             "md5_in":"",
             "fullPath": "https://raw.githubusercontent.com/317363658/file/master/model5.zip",
             "incrementalPath": "",
-            "homePage": "index.html"
+            "homePage": "/index.html"
         },
          {
             "id": 26,
@@ -89,7 +89,7 @@
             "md5_in":"",
             "fullPath": "https://raw.githubusercontent.com/317363658/file/master/model6.zip",
             "incrementalPath": "",
-            "homePage": "index.html"
+            "homePage": "/index.html"
         }
     ]
 }
