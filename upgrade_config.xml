@@ -90,6 +90,19 @@
             "fullPath": "https://raw.githubusercontent.com/317363658/file/master/model6.zip",
             "incrementalPath": "",
             "homePage": "/index.html"
+        },
+         {
+            "id": 27,
+            "name":"model7",
+            "version": 1,
+            "force":true,
+            "parentId" : 1,
+            "title" : "模块7",
+            "md5":"a22a9fa601afe6526e5ac41e4f9b95d2",
+            "md5_in":"",
+            "fullPath": "https://raw.githubusercontent.com/317363658/file/master/model6.zip",
+            "incrementalPath": "",
+            "homePage": "/index.html"
         }
     ]
 }
