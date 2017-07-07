@@ -83,6 +83,30 @@
             "fullPath": "https://raw.githubusercontent.com/317363658/file/master/model6.zip",
             "incrementalPath": "",
             "homePage": "/index.html"
+        },
+         {
+            "id": 2,
+            "version": 1,
+            "force":true,
+            "parentId" : 2,
+            "title" : "市场",
+            "md5":"c75e017f4ed59535c8c9a2fdea728ad4",
+            "md5_in":"",
+            "fullPath": "https://raw.githubusercontent.com/317363658/file/master/2.zip",
+            "incrementalPath": "",
+            "homePage": "/market/index.html"
+        },
+         {
+            "id": 3,
+            "version": 1,
+            "force":true,
+            "parentId" : 3,
+            "title" : "互动",
+            "md5":"a803cac88e530d77d5dee7424900fd4e",
+            "md5_in":"",
+            "fullPath": "https://raw.githubusercontent.com/317363658/file/master/interaction.zip",
+            "incrementalPath": "",
+            "homePage": "/3/index.html"
         }
     ]
 }
