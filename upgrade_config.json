@@ -1,6 +1,6 @@
 {
     "version": {
-        "version": "0.0.9",
+        "version": "0.1.0",
         "updateState": "0",
         "updateTip": "你有新版本，请升级<br>测试换行<br>测试换行1<br>测试换行2",
         "updateAddress": "https://raw.githubusercontent.com/317363658/file/master/test.apk",
