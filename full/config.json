@@ -1,11 +1,23 @@
 {
 	"version": 
 	{
-		"version": "0.1.0",
-		"updateState": 0,
-		"updateTip": "你有新版本，请升级\u003cbr\u003e测试换行\u003cbr\u003e测试换行1\u003cbr\u003e测试换行2",
-		"updateAddress": "https://raw.githubusercontent.com/317363658/file/master/test.apk",
-		"updateDetails": "model1测试增量更新"
+		"ios": 
+		{
+			"version": "0.1.0",
+			"updateState": 0,
+			"updateTip": "你有新版本，请升级\u003cbr\u003e测试换行\u003cbr\u003e测试换行1\u003cbr\u003e测试换行2",
+			"updateAddress": "https://raw.githubusercontent.com/317363658/file/master/test.apk",
+			"updateDetails": "model1测试增量更新"
+		},
+
+		"android": 
+		{
+			"version": "0.1.0",
+			"updateState": 0,
+			"updateTip": "你有新版本，请升级\u003cbr\u003e测试换行\u003cbr\u003e测试换行1\u003cbr\u003e测试换行2",
+			"updateAddress": "https://raw.githubusercontent.com/317363658/file/master/test.apk",
+			"updateDetails": "model1测试增量更新"
+		}
 	},
 
 	"appInfos": 
@@ -16,7 +28,7 @@
 			"version": 1,
 			"title": "关于本所",
 			"homePage": "index.html",
-			"md5": "79d95a75788d4057cfab6a2de61b91c3",
+			"md5": "b50daf0921d461c3a074dc67b688736b",
 			"md5_in": "",
 			"fullPath": "https://raw.githubusercontent.com/317363658/file/master/full/100_1.zip",
 			"incrementalPath": "",
@@ -29,7 +41,7 @@
 			"version": 1,
 			"title": "本所介绍",
 			"homePage": "index.html",
-			"md5": "00cf99dd85da9bfce22fc88f22e09a97",
+			"md5": "bba1203affb5304c6516734e429e5f19",
 			"md5_in": "",
 			"fullPath": "https://raw.githubusercontent.com/317363658/file/master/full/101_1.zip",
 			"incrementalPath": "",
@@ -42,7 +54,7 @@
 			"version": 1,
 			"title": "本所动态",
 			"homePage": "index.html",
-			"md5": "59ed726daab4dc6ed8f1a0642bf0adae",
+			"md5": "96df76521464709a26d5136fccbac8d8",
 			"md5_in": "",
 			"fullPath": "https://raw.githubusercontent.com/317363658/file/master/full/102_1.zip",
 			"incrementalPath": "",
@@ -55,7 +67,7 @@
 			"version": 1,
 			"title": "社会责任",
 			"homePage": "index.html",
-			"md5": "2f54425d28aae7412e7349b3eeba1912",
+			"md5": "e5d65dfaade95f98b4bfd55efe8b3bfd",
 			"md5_in": "",
 			"fullPath": "https://raw.githubusercontent.com/317363658/file/master/full/103_1.zip",
 			"incrementalPath": "",
@@ -68,7 +80,7 @@
 			"version": 1,
 			"title": "研究动态",
 			"homePage": "index.html",
-			"md5": "b895523d16beba81d7f5c9d0cbf668bf",
+			"md5": "97135c8494097e04ce87c1694f647c53",
 			"md5_in": "",
 			"fullPath": "https://raw.githubusercontent.com/317363658/file/master/full/104_1.zip",
 			"incrementalPath": "",
@@ -81,7 +93,7 @@
 			"version": 1,
 			"title": "发行上市",
 			"homePage": "index.html",
-			"md5": "8f59c8fdc49a27bc1ad0ddff7225236f",
+			"md5": "b50daf0921d461c3a074dc67b688736b",
 			"md5_in": "",
 			"fullPath": "https://raw.githubusercontent.com/317363658/file/master/full/200_1.zip",
 			"incrementalPath": "",
@@ -94,7 +106,7 @@
 			"version": 1,
 			"title": "规则流程",
 			"homePage": "index.html",
-			"md5": "f4c76d8832801b50de8d40994aa87174",
+			"md5": "bba1203affb5304c6516734e429e5f19",
 			"md5_in": "",
 			"fullPath": "https://raw.githubusercontent.com/317363658/file/master/full/201_1.zip",
 			"incrementalPath": "",
@@ -107,7 +119,7 @@
 			"version": 1,
 			"title": "培训与信息",
 			"homePage": "index.html",
-			"md5": "072de74d383e1dd4a9463382cbf8d8ca",
+			"md5": "4bfa1233c983f062e75165f4c37d1536",
 			"md5_in": "",
 			"fullPath": "https://raw.githubusercontent.com/317363658/file/master/full/202_1.zip",
 			"incrementalPath": "",
@@ -120,7 +132,7 @@
 			"version": 1,
 			"title": "礼仪与报道",
 			"homePage": "index.html",
-			"md5": "58583741f552634f9d222ea174d9de78",
+			"md5": "e3e1a20a5f6510eb050aa9e4b3cb183f",
 			"md5_in": "",
 			"fullPath": "https://raw.githubusercontent.com/317363658/file/master/full/203_1.zip",
 			"incrementalPath": "",
