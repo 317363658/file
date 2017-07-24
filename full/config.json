@@ -12,16 +12,22 @@
     },
     "androidList" : [
       {
-        "updateState" : 1,
+        "version" : "0.0.9",
         "compare" : "less or equal",
         "clearData" : false,
-        "version" : "0.0.9"
+        "updateState" : 0
       },
       {
-        "updateState" : 1,
+        "version" : "0.0.8",
         "compare" : "less",
         "clearData" : false,
-        "version" : "0.0.8"
+        "updateState" : 1
+      },
+      {
+        "version" : "0.0.7",
+        "compare" : "equal",
+        "clearData" : false,
+        "updateState" : 0
       }
     ],
     "ios" : {
@@ -36,18 +42,24 @@
     },
     "iosList" : [
       {
-        "updateState" : 1,
+        "version" : "0.0.9",
         "compare" : "less or equal",
         "clearData" : false,
-        "version" : "0.0.9"
+        "updateState" : 1
       },
       {
-        "updateState" : 1,
+        "version" : "0.0.8",
         "compare" : "less",
         "clearData" : false,
-        "version" : "0.0.8"
+        "updateState" : 1
       }
     ]
+  },
+  "note" : {
+    "state" : 1,
+    "msg" : "系统升级中，请稍候再来。",
+    "title" : "系统预计今晚20点左右维护升级，给你带来不便，敬请谅解。",
+    "timestamp" : "20170717"
   },
   "appInfos" : [
     {
@@ -158,11 +170,5 @@
       "version" : 10,
       "force" : false
     }
-  ],
-  "note" : {
-    "state" : 1,
-    "msg" : "系统升级中，请稍候再来。",
-    "title" : "系统预计今晚20点左右维护升级，给你带来不便，敬请谅解。",
-    "timestamp" : "20170717"
-  }
+  ]
 }
